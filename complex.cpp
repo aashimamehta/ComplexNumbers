@@ -1,5 +1,5 @@
 //Author : Aashima Mehta
-//CSS342 Complex functions (assignment 1)
+//Complex functions
 #include "complex.h"
 #include <iostream>
 using namespace std;
